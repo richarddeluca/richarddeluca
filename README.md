@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @richarddeluca
-- 👀 I’m interested in web development, psychology and game design
-- 🌱 I’m currently learning react and web development in general
+- 😀 Olá! Sou @richarddeluca
+- Daqui a pouco me formo em psicologia pela UnB e estou buscando trabalhar com tecnologia
+- Atualmente estou aprendendo a biblioteca react e o framework NextJS para desenvolver aplicações web com maior eficiência 🌱
+- Me interesso por psicologia, aprendizagem e design de jogos 👀
+- Estou procurando alguma forma de somar meus conhecimentos psi com tecnologia para deixar o mundo um lugar um pouquinho melhor.
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+- Por enquanto meu repositório contêm apenas trabalhos crus de aprendizagem e alguns protótipos 🙃 mas daqui a pouco ele vai estar bem cheinho de coisas interessantes (espero 😅).
 
-<!---
-richarddeluca/richarddeluca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
